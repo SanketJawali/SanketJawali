@@ -1,8 +1,8 @@
-👋 Hey there **I’m Sanket Jawali**, a Fellow Web Developer
-👀 **Passionate About Technology**: I'm deeply interested in how technology works and love applying my knowledge to build innovative solutions.
-🌱 **Currently Learning**: I'm focused on web development and actively building projects to solve real-world problems.
-💞️ **Open to Collaboration**: I'm excited to collaborate on impactful projects with like-minded individuals.
-📫 **Let's Connect**: Reach out to me on [LinkedIn](https://www.linkedin.com/in/sanket-jawali) or via [Gmail](mailto:sanketjawali25@gmail.com).
+-👋 Hey there **I’m Sanket Jawali**, a Fellow Web Developer
+-👀 **Passionate About Technology**: I'm deeply interested in how technology works and love applying my knowledge to build innovative solutions.
+-🌱 **Currently Learning**: I'm focused on web development and actively building projects to solve real-world problems.
+-💞️ **Open to Collaboration**: I'm excited to collaborate on impactful projects with like-minded individuals.
+-📫 **Let's Connect**: Reach out to me on [LinkedIn](https://www.linkedin.com/in/sanket-jawali) or via [Gmail](mailto:sanketjawali25@gmail.com).
 
 <!---
 SanketJawali/SanketJawali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
