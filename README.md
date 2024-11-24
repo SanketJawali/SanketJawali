@@ -1,5 +1,6 @@
-👋 Hey there **I’m Sanket Jawali**, a Programmer and a Student.
-
+# Sanket Jawali
+### Computer Science Student and a Tech Enthusiast
+---
 👀 **Passionate About Technology**: I'm deeply interested in how technology works at a deeper level. I like creating solutions for daily life problems and learning along the way.
 
 🌱 **Currently Learning**: Learning Rust and building low level projects in C, to gain a deeper understanding of the system.
