@@ -7,8 +7,6 @@
 
 💞️ **Open to Collaboration**: I'm excited to collaborate on impactful projects with like-minded individuals.
 
-📫 **Let's Connect**: Reach out to me on [LinkedIn](https://www.linkedin.com/in/sanket-jawali) or via [Gmail](mailto:sanketjawali25@gmail.com).
-
 <!---
 SanketJawali/SanketJawali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
