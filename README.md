@@ -2,9 +2,9 @@
 # &#128640; Sanket Jawali
 **Developer | Tech Enthusiast | Photographer**
 
-I am a Computer Science student and Tech enthusiast who wants likes to gain in-depth knowledge about how tech works. I currently an a web developer who is building websites with Python or Go at backend. I am a simple man so I use plain HTML, CSS and JavaScript at the frontend, but I also don't hate my life so I also use Tailwind and JS libraries(HTMX, AlpineJS). I would like to connect to like minded individuals and share knowledge.
+I am a Computer Science student and Tech enthusiast who wants likes to gain in-depth knowledge about how tech works. I currently an a web developer who is building websites with Python or Go at backend. I currently am obsessing over improving UX at frontend and hence I am working and learning more about React at Frontend. I would like to connect to like minded individuals and share knowledge.
 
-I also am a Photographer!
+I also am a Photographer, Love clicking pics of Nature!
 
 ---
 ### &#129520; Technologies and Tools
